@@ -77,5 +77,5 @@ See the `screenshots/` folder for:
 - Basic troubleshooting of container issues
 
 ---
-**Author:** [Your Name]
+**Author:** Ghadage Suraj Ganpat
 **Internship:** CodeAlpha DevOps Internship
